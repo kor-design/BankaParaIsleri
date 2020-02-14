@@ -1,0 +1,6 @@
+C:\Users\Windows10\Documents\GitHub\BankaParaIsleri\BankaParaYatirCekSorgula\BankaParaYatirCekSorgula\bin\Debug\BankaParaYatirCekSorgula.exe.config
+C:\Users\Windows10\Documents\GitHub\BankaParaIsleri\BankaParaYatirCekSorgula\BankaParaYatirCekSorgula\bin\Debug\BankaParaYatirCekSorgula.exe
+C:\Users\Windows10\Documents\GitHub\BankaParaIsleri\BankaParaYatirCekSorgula\BankaParaYatirCekSorgula\bin\Debug\BankaParaYatirCekSorgula.pdb
+C:\Users\Windows10\Documents\GitHub\BankaParaIsleri\BankaParaYatirCekSorgula\BankaParaYatirCekSorgula\obj\Debug\BankaParaYatirCekSorgula.csprojAssemblyReference.cache
+C:\Users\Windows10\Documents\GitHub\BankaParaIsleri\BankaParaYatirCekSorgula\BankaParaYatirCekSorgula\obj\Debug\BankaParaYatirCekSorgula.exe
+C:\Users\Windows10\Documents\GitHub\BankaParaIsleri\BankaParaYatirCekSorgula\BankaParaYatirCekSorgula\obj\Debug\BankaParaYatirCekSorgula.pdb
